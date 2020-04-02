@@ -1,0 +1,22 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llccing-demo/jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llccing-demo/jest/issues"
+  },
+  "homepage": "https://github.com/llccing-demo/jest#readme",
+  "devDependencies": {
+    "jest": "^25.2.3"
+  }
+}
